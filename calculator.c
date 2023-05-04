@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "ansi_escapes.h"
-
 int main(void) {
     printf(">>>>THE CALCULATOR<<<<\n");
     printf(">>Please enter your first name: ")
